@@ -1,3 +1,11 @@
+# Site de apresentação da loja Madaminha
+
+http://lojamadaminha.com.br/
+
+http://lojamadaminha.github.io/
+
+
+# Credito
 For more awesome website templates make sure to visit https://colorlib.com
 
 All templates are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
