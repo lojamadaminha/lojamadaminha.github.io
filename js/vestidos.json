@@ -3,10 +3,11 @@
         {
             "nome" : "Trapezio",
             "imagem" : "./img/vestidos/vestido (50).jpg",
-            "preco" : "80",
+            "modelo": "",
+            "preco" : "",
             "qtd6m" : "",
-            "qtd1" : "10",
-            "qtd2" : "2",
+            "qtd1" : "",
+            "qtd2" : "",
             "qtd4" : "",
             "qtd6" : "",
             "qtd8" : "",
@@ -15,6 +16,7 @@
         {
             "nome" : "Roda dupla",
             "imagem" : "./img/vestidos/vestido (51).jpg",
+            "modelo": "",
             "preco" : "140",
             "qtd6m" : "",
             "qtd1" : "1",
@@ -27,6 +29,7 @@
         {
             "nome" : "Roda dupla",
             "imagem" : "./img/vestidos/vestido (51).jpg",
+            "modelo": "",
             "preco" : "140",
             "qtd6m" : "1",
             "qtd1" : "1",
@@ -39,6 +42,7 @@
         {
             "nome" : "Roda dupla",
             "imagem" : "./img/vestidos/vestido (1).jpg",
+            "modelo": "",
             "preco" : "100",
             "qtd6m" : "",
             "qtd1" : "",
